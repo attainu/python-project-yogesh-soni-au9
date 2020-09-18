@@ -1,0 +1,12 @@
+***
+
+the  path followed is D=>R=>D=>R=>D=>R=>reach to the destination: 
+
+ 1  0  0  0 
+ 1  1  0  0 
+ 0  1  1  0 
+ 0  0  1  1 
+***
+Time of execution at : 18-09-2020 * 23:20:55
+***
+
